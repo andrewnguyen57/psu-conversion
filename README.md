@@ -42,12 +42,22 @@ The design implements 3V3, 5V, and 12V outputs along with a variable voltage mod
 # Final Result
 
 <p align="center">
-  <img src="images/final-front.png" width="350">
-  <img src="images/final-powered-on.png" width="350">
-</p>
-
-<p align="center">
-  <img src="images/final-inside.png" width="500">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/final-front.png" width="350"><br>
+        <em>Front View</em>
+      </td>
+      <td align="center">
+        <img src="images/final-back.png" width="350"><br>
+        <em>Back View</em>
+      </td>
+      <td align="center">
+        <img src="images/final-inside.png" width="350"><br>
+        <em>Internal Layout</em>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -98,6 +108,7 @@ The case is designed to support:
 ---
 
 # Electrical Diagram
+Please find the electrical diagram PDF file in the link below:
 
 - [Wiring Diagram](docs/wiring-diagram.pdf)
 
@@ -394,7 +405,7 @@ Later on, I used nuts and bolts to reinstall them properly as intake fans.
   <img src="images/fans.png" width="350">
 </p>
 
-### Finalize
+### Housekeeping
 
 Some housekeeping items:
 
@@ -407,14 +418,61 @@ Some housekeeping items:
   <img src="images/cable-management.png" width="350">
 </p>
 
+### Top Case
+
+The last step is to put the top case on, and we're **done**
+
+<p align="center">
+  <img src="images/top-case.png" width="350">
+</p>
+
+
 ---
 
 # Bill of Materials
 
+Please find the Bill of Materials PDF file in the link below:
 - [BOM](docs/bill-of-materials.pdf)
+
+---
+
+# Minor Improvement
+
+I've noticed that the center of the front and back case are a bit weak due to lack of support, in my build I added some hot glue to give it some mechanical strength.
+
+<p align="center">
+  <img src="images/center-support-1.png" width="350">
+  <img src="images/center-support-2.png" width="350">
+</p>
+
+In Version 2 of the design, I added some supports to add strength to those spots.
+
+<p align="center">
+  <img src="images/extra-supports-ver-2.png" width="350">
+</p>
+
+---
+
+# Early Planning Notes
+
+Some of my original handwritten planning notes, measurements and wiring sketches from the beginning of the project.
+
+<p align="center">
+  <img src="images/note-1.jpeg" width="350">
+  <img src="images/note-2.jpeg" width="350">
+  <img src="images/note-3.jpeg" width="350">
+</p>
 
 ---
 
 # Video
 
 Coming Soon
+
+---
+
+# References
+
+This project was inspired by Djambo's PSU conversion project.
+
+- https://www.youtube.com/watch?v=JAnCTSZb65Y
