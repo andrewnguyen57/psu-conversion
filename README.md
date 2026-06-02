@@ -8,6 +8,13 @@
 Converting ATX computer power supplies into high power benchtop power supplies
 </p>
 
+<p align="left">
+  <strong>⚠️ Disclaimer</strong><br>
+  This project, including the design, build process, written documentation, and all photographs, was completed by me.<br>
+  No steps, images, or content were copied from any external source.<br>
+  This disclaimer is here because I had questions about it before.
+</p>
+
 ---
 
 # Table of Contents
